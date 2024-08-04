@@ -1,5 +1,4 @@
-# bitoli
-![bitoli](https://github.com/retrotee/bitoli/blob/main/bitoli.jpeg)
+# bitoli <img src="https://github.com/retrotee/bitoli/blob/main/bitoli.jpeg" alt="bitoli" width="30"/>
 **bitoli** is a Python package for adaptive compression and encryption of data. It provides simple methods to securely encode and decode data using AES encryption in CFB mode along with adaptive compression techniques.
 
 ## Features
